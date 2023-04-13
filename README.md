@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hola, mi nombre es Cristian Estegiano 👋
+### Front-end Developer
 
 <!--
 **Cristian0976/Cristian0976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
